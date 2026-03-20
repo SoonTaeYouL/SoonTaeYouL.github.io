@@ -1,7 +1,5 @@
 ---
 title: Blogging Start!!
-author: SoonTaeYoul
-date: 2026-03-11 00:00:00 +0900
 categories: [Blogging]
 tags: [tutorial]
 ---
