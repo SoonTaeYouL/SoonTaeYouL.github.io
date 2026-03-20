@@ -1,5 +1,6 @@
 ---
 title: 코딩 테스트 기초 파이썬편
+description: 계속 추가해 나갈 예정입니다.
 categories: [Coding Test, Python]
 tags: [Coding Test, Python]
 ---

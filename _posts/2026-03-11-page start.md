@@ -1,5 +1,6 @@
 ---
 title: Blogging Start!!
+description: BLOG
 categories: [Blogging]
 tags: [tutorial]
 ---
