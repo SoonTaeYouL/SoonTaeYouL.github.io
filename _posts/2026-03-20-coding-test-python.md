@@ -104,6 +104,7 @@ data['사과'] = 'Apple'
 # list 반환
 data.keys()
 data.values()
+data.items()
 ```
 
 ## 집합 Set
