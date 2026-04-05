@@ -82,7 +82,7 @@ layout: compress
     {% endfor %}
 
     {% include_cached search-loader.html lang=lang %}
-    // 마우스 버블 효과
+    {% comment %} // 마우스 버블 효과
     <style>
       .cursor-bubble {
         position: fixed;
@@ -130,6 +130,6 @@ layout: compress
         bubble.remove();
       }, 800);
     });
-  </script>
+  </script> {% endcomment %}
   </body>
 </html>
