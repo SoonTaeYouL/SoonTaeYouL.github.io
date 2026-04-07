@@ -1,7 +1,7 @@
 ---
 title: Blogging Start!!
 description: BLOG
-categories: [Blogging]
+categories: [해보자!]
 tags: [tutorial]
 ---
 
